@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# Local warehouse/runtime
+warehouse/*.duckdb
+warehouse/*.wal
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
