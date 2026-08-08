@@ -1,0 +1,301 @@
+opportunity_id,feature,feature_value,shap_value,direction,rank
+S3W6Q07M,num__employees,,-0.09389894817022394,lowers score,1
+S3W6Q07M,num__revenue,,-0.0892688543807428,lowers score,2
+S3W6Q07M,num__year_established,,-0.06332697800334136,lowers score,3
+PMEENWD5,num__employees,,-0.09683262083652688,lowers score,1
+PMEENWD5,num__revenue,,-0.09652103522443531,lowers score,2
+PMEENWD5,num__year_established,,-0.06930079847733223,lowers score,3
+DO6VKC2G,num__engage_month,,-0.06940586113025163,lowers score,1
+DO6VKC2G,num__year_established,,-0.022473936155746888,lowers score,2
+DO6VKC2G,num__engage_dow,,-0.019088366871869985,lowers score,3
+81MXE1H7,cat__sales_agent_Markita Hansen,,-0.10143144736259903,lowers score,1
+81MXE1H7,num__engage_month,,0.05860970088407703,raises score,2
+81MXE1H7,num__year_established,,-0.03306288715495295,lowers score,3
+B5A1BERF,cat__sector_finance,,-0.040040137737042694,lowers score,1
+B5A1BERF,num__year_established,,-0.03243133202099125,lowers score,2
+B5A1BERF,num__engage_dow,,-0.020178903554903205,lowers score,3
+4NGSQODD,num__engage_month,,0.11932396617968055,raises score,1
+4NGSQODD,num__employees,,-0.0969585350494267,lowers score,2
+4NGSQODD,num__year_established,,-0.05951683756395457,lowers score,3
+7VOW7BUJ,num__year_established,,-0.031510557126133355,lowers score,1
+7VOW7BUJ,num__engage_dow,,-0.021799652642147574,lowers score,2
+7VOW7BUJ,num__revenue,,0.013206747939467746,raises score,3
+2J5E145N,num__year_established,,-0.031510557126133355,lowers score,1
+2J5E145N,num__engage_dow,,-0.021799652642147574,lowers score,2
+2J5E145N,num__revenue,,0.013206747939467746,raises score,3
+G5JP0G7Q,cat__sales_agent_Markita Hansen,,-0.0931138889058874,lowers score,1
+G5JP0G7Q,num__engage_month,,0.053105951620661236,raises score,2
+G5JP0G7Q,num__year_established,,-0.04038028478452519,lowers score,3
+5RNWV17L,num__engage_month,,0.07986124358589962,raises score,1
+5RNWV17L,cat__sector_finance,,-0.04217721595578464,lowers score,2
+5RNWV17L,num__year_established,,-0.03910679638051079,lowers score,3
+L2S4T3VA,num__year_established,,-0.031510557126133355,lowers score,1
+L2S4T3VA,num__engage_dow,,-0.018319758010253505,lowers score,2
+L2S4T3VA,cat__sales_agent_Lajuana Vencill,,0.013111865791202607,raises score,3
+ZHXIDZNI,num__year_established,,-0.029738986885234804,lowers score,1
+ZHXIDZNI,num__engage_dow,,-0.017886604672404608,lowers score,2
+ZHXIDZNI,cat__sales_agent_Lajuana Vencill,,0.013110645944659704,raises score,3
+30R81VZX,num__revenue,,0.027775710652264585,raises score,1
+30R81VZX,num__engage_dow,,-0.024022884194145517,lowers score,2
+30R81VZX,cat__sector_entertainment,,-0.020967138174647588,lowers score,3
+6HG76L6U,num__year_established,,-0.031510557126133355,lowers score,1
+6HG76L6U,num__engage_dow,,-0.021799652642147574,lowers score,2
+6HG76L6U,num__revenue,,0.013206747939467746,raises score,3
+NOLCZMV6,num__year_established,,-0.02429034998258883,lowers score,1
+NOLCZMV6,num__engage_dow,,-0.022268687403517607,lowers score,2
+NOLCZMV6,num__revenue,,0.012531346316409913,raises score,3
+E887HZT1,num__engage_dow,,0.03733725496514044,raises score,1
+E887HZT1,num__year_established,,-0.03161787570012567,lowers score,2
+E887HZT1,num__engage_month,,0.03147253205123327,raises score,3
+MCE5DKD1,num__engage_month,,0.19417223120719812,raises score,1
+MCE5DKD1,cat__sales_agent_Markita Hansen,,-0.10772758685576496,lowers score,2
+MCE5DKD1,num__year_established,,-0.05608589916433807,lowers score,3
+B06D1F9M,num__year_established,,-0.03181900287863077,lowers score,1
+B06D1F9M,num__engage_dow,,-0.024806311297856713,lowers score,2
+B06D1F9M,num__revenue,,0.015305344008954157,raises score,3
+BTT6YAVZ,num__engage_month,,0.13535998386115972,raises score,1
+BTT6YAVZ,num__employees,,-0.09311331994075552,lowers score,2
+BTT6YAVZ,num__year_established,,-0.06202267244302226,lowers score,3
+9A9E1KPG,num__year_established,,-0.03279461033970828,lowers score,1
+9A9E1KPG,num__engage_dow,,-0.01855426629226979,lowers score,2
+9A9E1KPG,num__engage_month,,0.014033072896122097,raises score,3
+6VIK2VX8,num__sales_price,,-0.04942771732018543,lowers score,1
+6VIK2VX8,cat__sales_agent_Hayden Neloms,,0.0403640451239231,raises score,2
+6VIK2VX8,num__engage_dow,,-0.02721205770753722,lowers score,3
+LMKNU8IZ,cat__sales_agent_Markita Hansen,,-0.09417112788514403,lowers score,1
+LMKNU8IZ,num__year_established,,-0.03607918860790956,lowers score,2
+LMKNU8IZ,num__engage_dow,,0.012863944455325967,raises score,3
+JCPQZ2SN,num__sales_price,,-0.048413106003387246,lowers score,1
+JCPQZ2SN,cat__product_GTX Plus Basic,,-0.026134118484729376,lowers score,2
+JCPQZ2SN,num__engage_month,,-0.022248919893901112,lowers score,3
+9SLINQY5,cat__sales_agent_Markita Hansen,,-0.0930873208325862,lowers score,1
+9SLINQY5,num__engage_month,,0.045884650521505525,raises score,2
+9SLINQY5,num__engage_dow,,-0.024185679669789285,lowers score,3
+PFFHM7HR,num__engage_month,,0.30113188122692197,raises score,1
+PFFHM7HR,cat__sales_agent_Markita Hansen,,-0.11618021359631787,lowers score,2
+PFFHM7HR,cat__product_MG Advanced,,-0.08273493551916239,lowers score,3
+HZIU2NOT,num__year_established,,-0.03348859597650809,lowers score,1
+HZIU2NOT,cat__sales_agent_Lajuana Vencill,,0.013022817813594554,raises score,2
+HZIU2NOT,num__engage_dow,,0.012541476414674234,raises score,3
+X3ZSQCH8,num__engage_dow,,0.03383864809647628,raises score,1
+X3ZSQCH8,num__year_established,,-0.02702709627765293,lowers score,2
+X3ZSQCH8,num__revenue,,-0.017445430461793813,lowers score,3
+W24IDMVV,num__year_established,,-0.031510557126133355,lowers score,1
+W24IDMVV,num__engage_dow,,-0.018319758010253505,lowers score,2
+W24IDMVV,cat__sales_agent_Lajuana Vencill,,0.013126191548197915,raises score,3
+OCGXWE8H,num__year_established,,-0.03669073918072057,lowers score,1
+OCGXWE8H,cat__product_MG Special,,0.022027871313567808,raises score,2
+OCGXWE8H,cat__sales_agent_Lajuana Vencill,,0.013076765718511005,raises score,3
+84LN84VM,num__engage_month,,0.061944456201850275,raises score,1
+84LN84VM,num__year_established,,-0.03840827580534265,lowers score,2
+84LN84VM,cat__sales_agent_Lajuana Vencill,,0.012997428386882122,raises score,3
+KVR52YDI,num__year_established,,-0.031510557126133355,lowers score,1
+KVR52YDI,num__engage_dow,,-0.018319758010253505,lowers score,2
+KVR52YDI,cat__sales_agent_Lajuana Vencill,,0.013110645944659704,raises score,3
+8AJG1YLJ,num__year_established,,-0.03346520297457168,lowers score,1
+8AJG1YLJ,num__engage_dow,,0.013405951863207807,raises score,2
+8AJG1YLJ,cat__sales_agent_Lajuana Vencill,,0.012995316823974841,raises score,3
+92G1TO7L,num__year_established,,-0.029715593883298388,lowers score,1
+92G1TO7L,num__engage_dow,,-0.018803695671066295,lowers score,2
+92G1TO7L,num__revenue,,0.016592436449345292,raises score,3
+R2W96FGX,num__year_established,,-0.03014874722114728,lowers score,1
+R2W96FGX,num__engage_dow,,-0.01923684900891519,lowers score,2
+R2W96FGX,num__revenue,,0.016592436449345292,raises score,3
+INBGKE14,num__year_established,,-0.03348859597650809,lowers score,1
+INBGKE14,cat__sales_agent_Lajuana Vencill,,0.013007272210056342,raises score,2
+INBGKE14,num__engage_dow,,0.012541476414674234,raises score,3
+VXMFL425,num__year_established,,-0.037587493760207154,lowers score,1
+VXMFL425,num__engage_dow,,0.025409408406776683,raises score,2
+VXMFL425,cat__sales_agent_Lajuana Vencill,,0.01004701530679006,raises score,3
+RVH3UUKY,num__engage_month,,0.061820498347961765,raises score,1
+RVH3UUKY,num__year_established,,-0.04112668301051704,lowers score,2
+RVH3UUKY,num__engage_dow,,0.018770998990913668,raises score,3
+J6F10SFK,num__engage_month,,-0.1287776568931941,lowers score,1
+J6F10SFK,cat__sales_agent_Markita Hansen,,-0.08119705430504989,lowers score,2
+J6F10SFK,cat__product_MG Advanced,,-0.06722367337827155,lowers score,3
+Y7N97FW8,num__year_established,,-0.03177613275145365,lowers score,1
+Y7N97FW8,num__engage_dow,,-0.02100642215194563,lowers score,2
+Y7N97FW8,num__revenue,,0.01313703547708585,raises score,3
+VN8LKQN3,num__year_established,,-0.03688495149593064,lowers score,1
+VN8LKQN3,cat__sales_agent_Lajuana Vencill,,0.012992946453061035,raises score,2
+VN8LKQN3,num__engage_dow,,0.012874031760431543,raises score,3
+SWJ9OOZU,cat__sales_agent_Hayden Neloms,,0.0966127315518221,raises score,1
+SWJ9OOZU,cat__sector_finance,,-0.03978865141537484,lowers score,2
+SWJ9OOZU,num__engage_month,,0.03473902793812339,raises score,3
+5BXUKFPR,num__year_established,,-0.035487169930851756,lowers score,1
+5BXUKFPR,cat__sales_agent_Lajuana Vencill,,0.013022817813594554,raises score,2
+5BXUKFPR,num__engage_dow,,0.012874031760431543,raises score,3
+QRQ8C6MQ,num__year_established,,-0.03809210118429013,lowers score,1
+QRQ8C6MQ,num__engage_month,,0.015745031510384998,raises score,2
+QRQ8C6MQ,num__engage_dow,,0.01369902691228304,raises score,3
+JQA8H6M5,num__year_established,,-0.030172140223083697,lowers score,1
+JQA8H6M5,num__engage_dow,,-0.018319758010253505,lowers score,2
+JQA8H6M5,cat__sales_agent_Lajuana Vencill,,0.013126191548197915,raises score,3
+V3HVIJLL,num__year_established,,-0.03546377692891534,lowers score,1
+V3HVIJLL,num__engage_dow,,0.013738507208965115,raises score,2
+V3HVIJLL,cat__sales_agent_Lajuana Vencill,,0.012995316823974841,raises score,3
+4E5A84H1,num__engage_month,,0.05733452670449855,raises score,1
+4E5A84H1,num__year_established,,-0.037069858902292994,lowers score,2
+4E5A84H1,cat__sales_agent_Lajuana Vencill,,0.013007272210056342,raises score,3
+STT3X4NB,num__revenue,,-0.04474019550714891,lowers score,1
+STT3X4NB,num__engage_dow,,-0.042530499790086725,lowers score,2
+STT3X4NB,cat__sector_finance,,-0.04141654591019596,lowers score,3
+AF8NG5JC,num__engage_dow,,-0.03481061810223628,lowers score,1
+AF8NG5JC,cat__product_MG Special,,0.020125109488921822,raises score,2
+AF8NG5JC,num__revenue,,0.015119444415554375,raises score,3
+S6645YWA,num__year_established,,0.07497090156181192,raises score,1
+S6645YWA,num__engage_month,,0.04734503751117812,raises score,2
+S6645YWA,num__engage_dow,,-0.04468159688684497,lowers score,3
+JDXSS1HT,cat__sales_agent_Markita Hansen,,-0.09354770289374924,lowers score,1
+JDXSS1HT,num__year_established,,-0.029767862274166335,lowers score,2
+JDXSS1HT,num__revenue,,0.02604331604483564,raises score,3
+B4SIVH1O,num__revenue,,-0.05775505360901513,lowers score,1
+B4SIVH1O,num__engage_dow,,-0.04657391740050841,lowers score,2
+B4SIVH1O,cat__product_GTX Basic,,-0.018292394134174304,lowers score,3
+SVCKI631,cat__sales_agent_Maureen Marcano,,0.0823375930234358,raises score,1
+SVCKI631,cat__product_GTX Basic,,-0.028525295381144667,lowers score,2
+SVCKI631,num__sales_price,,-0.024635897605655082,lowers score,3
+Y3CYQGPH,num__year_established,,-0.03148716412419694,lowers score,1
+Y3CYQGPH,num__engage_dow,,-0.01923684900891519,lowers score,2
+Y3CYQGPH,num__revenue,,0.016592436449345292,raises score,3
+WJQ8VD51,num__year_established,,-0.037587493760207154,lowers score,1
+WJQ8VD51,num__engage_dow,,0.025409408406776683,raises score,2
+WJQ8VD51,cat__sales_agent_Lajuana Vencill,,0.01004701530679006,raises score,3
+CG9VXPV1,num__year_established,,-0.03757565844902328,lowers score,1
+CG9VXPV1,num__engage_dow,,0.022560534320101824,raises score,2
+CG9VXPV1,cat__sales_agent_Lajuana Vencill,,0.012677882451065174,raises score,3
+FW2XJG9S,cat__sales_agent_Markita Hansen,,-0.09370640271098418,lowers score,1
+FW2XJG9S,num__year_established,,-0.030823523562170746,lowers score,2
+FW2XJG9S,num__engage_dow,,-0.01830240784547191,lowers score,3
+NR947OAB,num__year_established,,-0.035487169930851756,lowers score,1
+NR947OAB,cat__sales_agent_Lajuana Vencill,,0.013007272210056342,raises score,2
+NR947OAB,num__engage_dow,,0.012874031760431543,raises score,3
+IKU97NEU,num__engage_month,,-0.11861246012164732,lowers score,1
+IKU97NEU,cat__sales_agent_Markita Hansen,,-0.08503063664161749,lowers score,2
+IKU97NEU,cat__sector_finance,,-0.04993577279369753,lowers score,3
+LXM6CTMS,num__sales_price,,-0.048413106003387246,lowers score,1
+LXM6CTMS,num__year_established,,-0.039481860403248914,lowers score,2
+LXM6CTMS,cat__product_GTX Plus Basic,,-0.026134118484729376,lowers score,3
+R5RSH4JV,num__year_established,,-0.036825586833901414,lowers score,1
+R5RSH4JV,cat__sales_agent_Lajuana Vencill,,0.013008492056599246,raises score,2
+R5RSH4JV,num__engage_dow,,0.012874031760431543,raises score,3
+E4THD359,num__year_established,,-0.038922665809105396,lowers score,1
+E4THD359,num__engage_dow,,0.022560534320101824,raises score,2
+E4THD359,cat__sales_agent_Lajuana Vencill,,0.012677882451065174,raises score,3
+CGJ7NRZH,num__year_established,,-0.03940914638589496,lowers score,1
+CGJ7NRZH,num__engage_dow,,0.022302584556634714,raises score,2
+CGJ7NRZH,cat__product_MG Special,,0.022027871313567808,raises score,3
+BHHDOY2E,num__engage_month,,-0.13703467569460967,lowers score,1
+BHHDOY2E,cat__product_MG Advanced,,-0.07169048031498874,lowers score,2
+BHHDOY2E,num__year_established,,-0.031214296081051505,lowers score,3
+UQQE9ILV,num__engage_month,,0.20420584502978192,raises score,1
+UQQE9ILV,num__year_established,,-0.05978202566177565,lowers score,2
+UQQE9ILV,num__revenue,,-0.019468095765218418,lowers score,3
+XRDF1NAB,num__year_established,,-0.030172140223083697,lowers score,1
+XRDF1NAB,num__engage_dow,,-0.018319758010253505,lowers score,2
+XRDF1NAB,cat__sales_agent_Lajuana Vencill,,0.013110645944659704,raises score,3
+DN6SG3US,num__year_established,,-0.036864321336811064,lowers score,1
+DN6SG3US,cat__sales_agent_Lajuana Vencill,,0.013022817813594554,raises score,2
+DN6SG3US,num__engage_dow,,0.012874031760431543,raises score,3
+SCS5H8V1,cat__sales_agent_Markita Hansen,,-0.09414455981184283,lowers score,1
+SCS5H8V1,cat__sector_finance,,-0.040040137737042694,lowers score,2
+SCS5H8V1,num__year_established,,-0.028506436424366056,lowers score,3
+YM8DBAFV,num__year_established,,-0.040299066993840234,lowers score,1
+YM8DBAFV,num__engage_dow,,0.0278491094163044,raises score,2
+YM8DBAFV,num__engage_month,,0.01874913912276748,raises score,3
+TH9RV79M,cat__sales_agent_Maureen Marcano,,0.1040652791832503,raises score,1
+TH9RV79M,num__sales_price,,-0.024635897605655082,lowers score,2
+TH9RV79M,num__engage_month,,-0.02376800945764246,lowers score,3
+AMNKCM1H,num__year_established,,-0.037110785144151774,lowers score,1
+AMNKCM1H,cat__product_MG Special,,0.020125109488921822,raises score,2
+AMNKCM1H,cat__sales_agent_Lajuana Vencill,,0.013065487072055758,raises score,3
+WUNMIJW9,num__engage_month,,0.05802944399505567,raises score,1
+WUNMIJW9,num__year_established,,-0.03840827580534265,lowers score,2
+WUNMIJW9,cat__sales_agent_Lajuana Vencill,,0.013007272210056342,raises score,3
+JA5G7YBO,cat__sales_agent_Markita Hansen,,-0.10775415492906616,lowers score,1
+JA5G7YBO,num__year_established,,-0.04045193407093711,lowers score,2
+JA5G7YBO,num__engage_dow,,0.027680682305541996,raises score,3
+V74O6XQT,num__year_established,,-0.031510557126133355,lowers score,1
+V74O6XQT,num__engage_dow,,-0.021799652642147574,lowers score,2
+V74O6XQT,num__revenue,,0.013206747939467746,raises score,3
+4IT33RBO,cat__sales_agent_Markita Hansen,,-0.09336979506483746,lowers score,1
+4IT33RBO,num__year_established,,-0.0309997970221198,lowers score,2
+4IT33RBO,num__engage_dow,,-0.02190616298582573,lowers score,3
+ZHY9C8OO,num__year_established,,-0.035546534592880985,lowers score,1
+ZHY9C8OO,cat__sales_agent_Lajuana Vencill,,0.013007272210056342,raises score,2
+ZHY9C8OO,num__engage_dow,,0.012874031760431543,raises score,3
+H2MC2E7K,num__year_established,,-0.03757443647097742,lowers score,1
+H2MC2E7K,num__revenue,,0.01362650595310186,raises score,2
+H2MC2E7K,cat__sales_agent_Lajuana Vencill,,0.012961022950613098,raises score,3
+OZ761BUJ,num__year_established,,-0.031752739749517235,lowers score,1
+OZ761BUJ,num__engage_dow,,-0.02192351315060732,lowers score,2
+OZ761BUJ,num__revenue,,0.01781633010316214,raises score,3
+P9PFSLS6,cat__sales_agent_Maureen Marcano,,0.1040652791832503,raises score,1
+P9PFSLS6,num__year_established,,-0.025777455745642046,lowers score,2
+P9PFSLS6,num__sales_price,,-0.024635897605655082,lowers score,3
+3PVNGGBX,cat__sales_agent_Markita Hansen,,-0.09336979506483746,lowers score,1
+3PVNGGBX,num__year_established,,-0.030755033941010028,lowers score,2
+3PVNGGBX,num__engage_dow,,-0.02340347701753227,lowers score,3
+456BP2X7,num__engage_month,,-0.13016458438872636,lowers score,1
+456BP2X7,cat__product_MG Advanced,,-0.060128260517048976,lowers score,2
+456BP2X7,num__year_established,,-0.03533702553676705,lowers score,3
+1WHXI2RW,cat__sales_agent_Markita Hansen,,-0.09373297078428539,lowers score,1
+1WHXI2RW,num__year_established,,-0.03885696047511318,lowers score,2
+1WHXI2RW,num__engage_dow,,0.022292497251529136,raises score,3
+WFCEPHD3,cat__sales_agent_Markita Hansen,,-0.09417112788514403,lowers score,1
+WFCEPHD3,num__year_established,,-0.03607918860790956,lowers score,2
+WFCEPHD3,num__engage_dow,,0.012863944455325967,raises score,3
+TF19VML9,num__year_established,,-0.030231504885112923,lowers score,1
+TF19VML9,num__engage_dow,,-0.018319758010253505,lowers score,2
+TF19VML9,cat__sales_agent_Lajuana Vencill,,0.013110645944659704,raises score,3
+MU7JWTP6,num__year_established,,-0.03669073918072057,lowers score,1
+MU7JWTP6,cat__product_MG Special,,0.022027871313567808,raises score,2
+MU7JWTP6,cat__sales_agent_Lajuana Vencill,,0.013072283784689918,raises score,3
+ZG8WPG99,num__year_established,,-0.03348859597650809,lowers score,1
+ZG8WPG99,cat__sales_agent_Lajuana Vencill,,0.013007272210056342,raises score,2
+ZG8WPG99,num__engage_dow,,0.012541476414674234,raises score,3
+ESZY10SI,cat__sales_agent_Hayden Neloms,,0.09713008729583253,raises score,1
+ESZY10SI,num__year_established,,-0.03222263131501286,lowers score,2
+ESZY10SI,num__sales_price,,0.03220144068621302,raises score,3
+U5K2MZB6,num__engage_month,,-0.13698143716533154,lowers score,1
+U5K2MZB6,cat__product_MG Advanced,,-0.07169048031498874,lowers score,2
+U5K2MZB6,num__year_established,,-0.03321287003539518,lowers score,3
+NGCM47PC,num__year_established,,-0.030172140223083697,lowers score,1
+NGCM47PC,num__engage_dow,,-0.021799652642147574,lowers score,2
+NGCM47PC,num__revenue,,0.013226904508803311,raises score,3
+9HRMW8SL,num__year_established,,-0.03940914638589496,lowers score,1
+9HRMW8SL,num__engage_dow,,0.022302584556634714,raises score,2
+9HRMW8SL,cat__product_MG Special,,0.022027871313567808,raises score,3
+7TI1WTV9,num__year_established,,-0.03590212407444695,lowers score,1
+7TI1WTV9,cat__sales_agent_Lajuana Vencill,,0.01296115023326667,raises score,2
+7TI1WTV9,num__engage_dow,,0.012663963496114749,raises score,3
+01EH41WA,num__year_established,,-0.035487169930851756,lowers score,1
+01EH41WA,cat__sales_agent_Lajuana Vencill,,0.013007272210056342,raises score,2
+01EH41WA,num__engage_dow,,0.012874031760431543,raises score,3
+PGXIPGDM,num__engage_month,,-0.11991872157079586,lowers score,1
+PGXIPGDM,cat__product_MG Advanced,,-0.06515648161361795,lowers score,2
+PGXIPGDM,num__year_established,,-0.03012787653571001,lowers score,3
+TV300INP,num__year_established,,-0.036864321336811064,lowers score,1
+TV300INP,cat__sales_agent_Lajuana Vencill,,0.013022817813594554,raises score,2
+TV300INP,num__engage_dow,,0.012874031760431543,raises score,3
+JSZZN48S,num__year_established,,-0.030172140223083697,lowers score,1
+JSZZN48S,num__engage_dow,,-0.021799652642147574,lowers score,2
+JSZZN48S,num__revenue,,0.013399416895278142,raises score,3
+X1D1HYMM,num__year_established,,-0.035487169930851756,lowers score,1
+X1D1HYMM,cat__sales_agent_Lajuana Vencill,,0.013022817813594554,raises score,2
+X1D1HYMM,num__engage_dow,,0.012874031760431543,raises score,3
+MN6E59H6,cat__sales_agent_Markita Hansen,,-0.09414455981184283,lowers score,1
+MN6E59H6,num__year_established,,-0.03076415890014152,lowers score,2
+MN6E59H6,num__engage_dow,,-0.02178230247736598,lowers score,3
+CY7C3ZPJ,num__engage_month,,-0.12890161474708262,lowers score,1
+CY7C3ZPJ,cat__sales_agent_Markita Hansen,,-0.08119705430504989,lowers score,2
+CY7C3ZPJ,cat__product_MG Advanced,,-0.06722367337827155,lowers score,3
+BED55OSG,num__engage_month,,-0.11892715955713277,lowers score,1
+BED55OSG,cat__sales_agent_Markita Hansen,,-0.08555687280713183,lowers score,2
+BED55OSG,num__year_established,,-0.03131491536339598,lowers score,3
+9Y85N0W5,cat__sales_agent_Markita Hansen,,-0.0930873208325862,lowers score,1
+9Y85N0W5,num__engage_month,,0.052048136149857115,raises score,2
+9Y85N0W5,num__year_established,,-0.032346847871582755,lowers score,3
+8TRT2HNF,num__engage_month,,-0.10271025548473313,lowers score,1
+8TRT2HNF,cat__sales_agent_Markita Hansen,,-0.0930996665168381,lowers score,2
+8TRT2HNF,num__year_established,,-0.022715169986989133,lowers score,3

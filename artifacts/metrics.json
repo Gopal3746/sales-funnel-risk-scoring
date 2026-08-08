@@ -1,0 +1,30 @@
+{
+  "records_total": 8800,
+  "records_closed": 6711,
+  "wins": 4238,
+  "losses": 2473,
+  "closed_win_rate": 0.6315005215318135,
+  "selected_model": "lightgbm",
+  "holdout_auc": 0.5544322830799292,
+  "holdout_average_precision": 0.6745961105201317,
+  "holdout_accuracy_at_0_5": 0.6299165673420739,
+  "holdout_brier": 0.23145170023625303,
+  "temporal_q4_auc": 0.5272729970200627,
+  "temporal_train_records": 4726,
+  "temporal_test_records": 1985,
+  "cross_validation": {
+    "logistic_regression": {
+      "cv_auc_mean": 0.5049132366892652,
+      "cv_auc_std": 0.009197721874215466
+    },
+    "lightgbm": {
+      "cv_auc_mean": 0.5543491210716246,
+      "cv_auc_std": 0.008636159747328521
+    }
+  },
+  "feature_policy": "Only fields observable by the engaging stage are used; close_date, close_value, and final deal_stage are excluded from predictors.",
+  "open_deals": 2089,
+  "open_engaging_deals": 1589,
+  "stalled_deals": 783,
+  "stall_rule": "Engaging days >= 2.0 \u00d7 historical product+region P75 close-cycle duration"
+}
